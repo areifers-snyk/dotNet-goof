@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp6.3</TargetFramework>
+    <TargetFramework>netcoreapp6.4</TargetFramework>
     <RootNamespace>dotNet_goof</RootNamespace>
   </PropertyGroup>
 
